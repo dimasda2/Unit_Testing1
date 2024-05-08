@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="283f6c2f-14da-44d9-8f14-b4a9537f90a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TemperatureOutOfRangeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TemperatureOutOfRangeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TemperatureValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TemperatureValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/app/TemperatureValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/app/TemperatureValidatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,8 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Device.executor": "Run",
+    "JUnit.TemperatureValidatorTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/java2023/JUnit5-Altitude-Validator",
     "onboarding.tips.debug.path": "E:/java2023/javapro/UnitTestJUnit5-task/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -41,16 +57,5 @@
       <updated>1715169342895</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
